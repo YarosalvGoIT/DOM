@@ -31,11 +31,6 @@
 Додайте слухач кліку на window і визначте чи клікнув користувач у дів з id="place".
 */
 
-// const placeRef = document.querySelector("#place");
-// addEventListener("click", (e) => {
-//   console.log(e.target === placeRef ? true : false);
-// });
-
 //TODO:==============================================
 /*
 Завдання 6
